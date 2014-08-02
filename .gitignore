@@ -43,3 +43,8 @@ Icon
 *.tlog
 *.log
 *.obj
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
